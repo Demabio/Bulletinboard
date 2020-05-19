@@ -1,2 +1,0 @@
-# Bulletinboard
-NodeJs Project
